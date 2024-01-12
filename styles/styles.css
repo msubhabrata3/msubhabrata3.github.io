@@ -1,0 +1,23 @@
+html
+{
+    font-family:sans-serif;
+}
+h1
+{
+    color:brown;
+    font-size: 20px;
+}
+h2
+{
+    color:DodgerBlue;
+    font-size: 20px;
+}
+.textformat 
+{
+    font-family: verdana;
+    font-size: 13px;
+}
+.linkcolor
+{
+    color:blue;
+}
