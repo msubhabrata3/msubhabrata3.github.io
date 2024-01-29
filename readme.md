@@ -12,7 +12,7 @@ Description: Creating different shapes using \<div\> element
 ### Name: Animation of colorful ball bouncing in a frame
 
 Description: Experimenting with moving elements inside a boundary
-<a href="https://github.com/msubhabrata3/msubhabrata3.github.io/blob/main/pages/Randow-Walk-Excercise.html">Shapes</a>
+<a href="https://github.com/msubhabrata3/msubhabrata3.github.io/blob/main/pages/Randow-Walk-Excercise.html">Random Walk</a>
 
 ## Packman
 
