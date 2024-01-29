@@ -1,3 +1,5 @@
-This folder will contain all files related to me personal GitHub page
+This folder will contain all files related to my personal GitHub page
 
-# Heading level 1
+# Shapes
+## Name: Playing with different Shapes object  
+Description: Creating different shapes using <div> elemement 
